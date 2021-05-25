@@ -1,0 +1,3 @@
+# classification
+
+set of classification projects such as spammers, fraud detection, ...
