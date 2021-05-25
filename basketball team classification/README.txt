@@ -29,4 +29,4 @@ This dataset is about the performance of basketball teams. The **cbb.csv** data 
 
 
 we use 4 classification approaches like SVM, Logistic regression, KNN, DecisionTree which you can see the accuracies in the note book. in the end we use SVM algorithm for test dataFrame
- and got 77% f1-score and 75% accuracy-score. so we illustrates which teams will go in F4 and which will go in E8.
+ and got 77% f1-score and 75% accuracy-score. so we illustrated which teams will go in F4 and which will go in E8.
