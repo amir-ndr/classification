@@ -1,0 +1,3 @@
+The SMS Spam Collection is a set of SMS tagged messages that have been collected for SMS Spam research. train.csv contains one set of SMS messages in English of 9543 messages, tagged acording being 0 (legitimate) or 1 (spam).
+test.csv contains set of messages without any labels. we should predict the probability of these messages to be spam.
+we train the model using logistic regression and got 95%.
